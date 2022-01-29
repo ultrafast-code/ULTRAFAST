@@ -12,7 +12,6 @@ written by G. Fabiani and J.H. Mentink for research purpose. Any use of MyULTRAF
 
 MyULTRAFAST exploits the learning power of artificial neural networks, in particular of the restricted Boltzmann machine architecture, to simulate quantum states of spin-1/2 Hamiltonians in one and two dimensions. By using the high-level parallelization routines provided by Julia, MyULTRAFAST offers the possibility to fully parallelize the simulation over the available cores, allowing to simulate lattice sizes as large as 30x30 in modest CPU time. It also offers full customization of the model Hamiltonian, the possibility to adapt the code to any lattice geometry and implement any dynamic term.
 
-![nn_RBM](https://user-images.githubusercontent.com/98354961/151670808-69988851-f2c4-4c1f-8573-2d806f1267a2.png)
 
 To run MyULTRAFAST, first install Julia, version 1.1.1 or higher. Then install the code by 
 downloading the tar file given in the Supplementary Material and untarring it in 
