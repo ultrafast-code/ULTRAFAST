@@ -3,7 +3,7 @@
 ULTRAFAST is an open-source code for the simulation of ground state and dynamic
 properties of quantum spin systems.
  
-It is written by G. Fabiani and J.H. Mentink for research purpose. Any use of ULTRAFAST for scientific research has to provide citation to ultrafast-code/Ultrafastv2.0.
+It is written by G. Fabiani and J.H. Mentink for research purpose. Any use of ULTRAFAST for scientific research has to provide citation to ultrafast-code/ULTRAFASTv2.0.
 
 
 ## Introduction
